@@ -1,4 +1,4 @@
-lINK GITHUB: https://github.com/IBeckzzzz
+LINK GITHUB: https://github.com/IBeckzzzz
 
 ### Front
 
