@@ -1,10 +1,10 @@
-### Client
+### Front
 
   1. `$ cd client`
   2. `$ npm install` or `$ yarn install`
   3. `$ npm start` or `$ yarn start`
   
-### Server
+### Back
   
   1. `$ cd server`
   2. `$ npm install ou yarn install`
